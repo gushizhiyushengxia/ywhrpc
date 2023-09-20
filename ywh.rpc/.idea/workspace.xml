@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fca7071-1b74-4efd-af29-85ac6316151b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\qqdownload2\repo" />
+        <option name="mavenHome" value="E:\qqdownload2\apache-maven-3.3.9\apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\qqdownload2\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ui72M4lSnmPo5dEwDmTdQLGJoX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Yin.RPC-master" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ywh.netty.annotation" />
+      <recent name="com.ywh.netty.util" />
+      <recent name="com.ywh.netty.handler" />
+      <recent name="com.ywh.netty.init" />
+      <recent name="com.ywh.netty.client" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ZookeeperFactory">
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ywh.netty.server.NettyServer" />
+      <module name="ywh.rpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ywh.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ywh.netty.factory.ZookeeperFactory" />
+      <module name="ywh.rpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ywh.netty.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZookeeperFactory" />
+        <item itemvalue="Application.NettyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fca7071-1b74-4efd-af29-85ac6316151b" name="Default Changelist" comment="" />
+      <created>1693410340428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693410340428</updated>
+      <workItem from="1693410341555" duration="988000" />
+      <workItem from="1693449171064" duration="757000" />
+      <workItem from="1693489109113" duration="7263000" />
+      <workItem from="1693500350448" duration="1342000" />
+      <workItem from="1693531539694" duration="7000" />
+      <workItem from="1693669798331" duration="9966000" />
+      <workItem from="1693724871569" duration="9728000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3235" y="199" key="#com.intellij.ide.util.MemberChooser" timestamp="1693734860652">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3235" y="199" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693494988342" />
+    <state x="1052" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1693490630367" />
+    <state x="3235" y="199" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693734860652" />
+    <state x="2771" y="225" key="FileChooserDialogImpl" timestamp="1693740396501">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2771" y="225" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693491073354" />
+    <state x="681" y="178" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1693410669380" />
+    <state x="2771" y="225" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693740396501" />
+    <state x="851" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1693531545049" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1693498783567">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693498783567" />
+    <state x="261" y="26" key="SettingsEditor" timestamp="1693410680484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="26" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1693410680484" />
+    <state x="2422" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1693492415601">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2422" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693492415601" />
+    <state x="2254" y="180" key="new project wizard" timestamp="1693741372997">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2254" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1693741372997" />
+    <state x="642" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1693449223546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="642" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1693449223546" />
+  </component>
+</project>
